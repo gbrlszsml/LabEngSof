@@ -4,7 +4,7 @@ html{
     text-transform: capitalize;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
-    background-color: rgba(243, 255, 80, 0.959);/*alpha é a transparencia  1 é o maximo*/
+    background-color: hsl(239, 73%, 37%);/*alpha é a transparencia  1 é o maximo*/
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
